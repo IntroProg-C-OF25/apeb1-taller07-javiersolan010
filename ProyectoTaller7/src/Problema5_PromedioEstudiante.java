@@ -12,7 +12,7 @@
  * @author javiersolan010
  */
 import java.util.Scanner;
-public class Problema5 {
+public class Problema5_PromedioEstudiante {
     public static void main(String[] args) {
         Scanner tcl = new Scanner(System.in);
         String nombre, estado;
@@ -31,6 +31,7 @@ public class Problema5 {
             contador++;
             
         }
+        
         
         
     }
